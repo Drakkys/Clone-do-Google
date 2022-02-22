@@ -98,7 +98,7 @@ input {
   height: 40px;
   min-width: 54px;
   border-radius: 5px;
-  font-size: 14px;
+  font-size: 15px;
   cursor: pointer;
   color: #fff;
   border: none;
@@ -127,7 +127,9 @@ input {
 }
 .footer3 {
   display: flex;
+  justify-content: space-between;
   border-top: 1px solid #5c5c5c;
+  font-size: 15px;
   width: 100%;
   height: 50%;
 }
@@ -147,10 +149,9 @@ input {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-left: 65em;
 }
 .footerend ul a {
-  padding: 17px;
+  padding: 15px;
 }
 .footerend ul a:hover {
   text-decoration: underline;
@@ -158,7 +159,7 @@ input {
 p {
   position: absolute;
   padding-left: 50.5px;
-  font-size: 17px;
+  font-size: 15px;
   color: #9aa0a6;
 }
 ul a {
